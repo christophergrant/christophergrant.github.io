@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Site</title>
+    <title></title>
     <link>https://christophergrant.github.io/</link>
-    <description>Recent content on My Site</description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Aug 2017 22:36:53 -0700</lastBuildDate>
@@ -18,7 +18,7 @@
       
       <guid>https://christophergrant.github.io/posts/hello-world/</guid>
       <description>sup fam
-emojify :heart:</description>
+emojify ❤️</description>
     </item>
     
     <item>
